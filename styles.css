@@ -28,10 +28,6 @@ body div p {
   justify-content: center;
 }
 
-body div #color {
-  /* background-color: aqua; */
-}
-
 .colorBox {
   display: flex;
   flex-direction: column;
